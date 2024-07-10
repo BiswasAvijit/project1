@@ -226,3 +226,15 @@
     border: none;
     width: 100px;
 }
+.footer{
+    margin-top: 100px;
+    display: flex;
+
+}
+.footer_icons{
+    display: flex;
+    /* background-color: green; */
+}
+.footer_icon{
+    margin: 10px;
+}
