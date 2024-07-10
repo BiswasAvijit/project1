@@ -133,3 +133,43 @@
 .fourth_video{
     margin-top: 30px;
 }
+.fifth_heading_h3{
+    /* justify-content: center;
+    align-items: center; */
+    /* background-color: aquamarine; */
+    /* margin: auto auto; */
+    margin-left: 600px;
+
+}
+.fifth_paragraph{
+    /* justify-content: center;
+    align-items: center; */
+    /* background-color: rgb(127, 255, 138); */
+    margin: 0 auto;
+
+}
+.fifth{
+    /* justify-content: center;
+    background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+}
+.fifth_cards{
+    display: flex;
+    margin: 40px auto;
+}
+.html_card{
+    margin-right: 20px;
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 10px;
+}
+.css_card{
+    margin-right: 20px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 10px;
+
+}
+.js_card{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 10px;
+}
