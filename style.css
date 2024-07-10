@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(challenge/assets/Hero-bg.png);
+    display: flex;
+    min-height: 500px;
+}
+.header_all{
+    margin: 0 auto;
+}
+.header_1st{
+    margin-top: 30px;
+    /* margin: 0 auto; */
+    display: flex;
+}
+.header_1st > img{
+    margin: 0 auto;
+}
+.header_2nd{
+    margin-top: 30px;
+    display: flex;
+}
+.header_2nd > h1{
+    margin: 0 auto;
+}
+.header_3rd{
+    margin-top: 30px;
+    display: flex;
+}
+.header_3rd > p{
+    margin: 0 auto;
+}
+
+.header_4th{
+    margin-top: 30px;
+    display: flex;
+}
+.header_4th_btn{
+    /* margin-top: 30px; */
+    margin: 0 auto;
+
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 3px; 
+    background: rgb(13, 19, 33);
+    padding: 10px;
+    
+}
